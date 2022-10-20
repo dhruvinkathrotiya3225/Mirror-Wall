@@ -29,7 +29,7 @@ class _homepageState extends State<homepage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text(" Educational websites "),
+          title: Text(" OTT Platform "),
           centerTitle: true,
           backgroundColor: Colors.black,
         ),
